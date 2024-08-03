@@ -1,0 +1,101 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Tiago de Lima",
+	"icon": "https://micro.blog/tiagovercosa/avatar.jpg",
+	"home_page_url": "https://tiagolima.micro.blog/",
+	"feed_url": "https://tiagolima.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://tiagolima.micro.blog/2024/07/30/ok-coffee-break.html",
+				
+				"content_html": "<p>Ok… coffee break! ☕️📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ok… coffee break! ☕️📷\n\n<img src=\"uploads/2024/91671084c1.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-07-30T18:03:07-03:00",
+				"url": "https://tiagolima.micro.blog/2024/07/30/ok-coffee-break.html",
+				"tags": ["Photografy"]
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2024/07/28/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781429932424\">The Number Devil</a> by Hans Magnus Enzensberger 📚</p>\n<p>Most people think this book is <em>only</em> for children, but after reading it, my feeling is that everyone except mathematicians should read this book.</p>\n",
+				"content_text": "Finished reading: [The Number Devil](https://micro.blog/books/9781429932424) by Hans Magnus Enzensberger 📚\r\n\r\nMost people think this book is *only* for children, but after reading it, my feeling is that everyone except mathematicians should read this book.\n",
+				"date_published": "2024-07-28T20:49:04-03:00",
+				"url": "https://tiagolima.micro.blog/2024/07/28/finished-reading-the.html"
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2024/07/21/hello-im-back.html",
+				
+				"content_html": "<p>Hello, I&rsquo;m back to the Micro.blog! ✌🏽\nAfter the most time working in my research, I&rsquo;m back in social media.</p>\n",
+				"content_text": "Hello, I'm back to the Micro.blog! ✌🏽\nAfter the most time working in my research, I'm back in social media.\n",
+				"date_published": "2024-07-21T00:07:38-03:00",
+				"url": "https://tiagolima.micro.blog/2024/07/21/hello-im-back.html"
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2024/06/09/pause-from-the.html",
+				
+				"content_html": "<p>Pause from the hustle and bustle of everyday life. 🌴 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Pause from the hustle and bustle of everyday life. 🌴 📷\n\n<img src=\"uploads/2024/a7fffd64f7.jpg\" width=\"600\" height=\"376\" alt=\"\">\n",
+				"date_published": "2024-06-09T11:38:03-03:00",
+				"url": "https://tiagolima.micro.blog/2024/06/09/pause-from-the.html",
+				"tags": ["Photografy"]
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2024/06/01/cold-and-cloudy.html",
+				
+				"content_html": "<p>Cold and cloudy night! 🌙 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Cold and cloudy night! 🌙 📷\n\n<img src=\"uploads/2024/60c7b9d8c8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-06-01T23:40:57-03:00",
+				"url": "https://tiagolima.micro.blog/2024/06/01/cold-and-cloudy.html",
+				"tags": ["Photografy"]
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2024/05/21/we-need-to.html",
+				
+				"content_html": "<p>We need to talk about Fortran and COBOL languages. They are still among the world&rsquo;s most popular programming languages despite being almost 70 years old. The may 2024 edition of the <a href=\"https://www.tiobe.com/tiobe-index/\">TIOBE Index</a> show that this programming languages yet in the top the most used in the world.</p>\n",
+				"content_text": "We need to talk about Fortran and COBOL languages. They are still among the world's most popular programming languages despite being almost 70 years old. The may 2024 edition of the [TIOBE Index](https://www.tiobe.com/tiobe-index/) show that this programming languages yet in the top the most used in the world.\n",
+				"date_published": "2024-05-21T15:28:42-03:00",
+				"url": "https://tiagolima.micro.blog/2024/05/21/we-need-to.html"
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2024/05/16/most-iconic-equations.html",
+				
+				"content_html": "<p>Most iconic equations at Physics that transform world! #Science</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Most iconic equations at Physics that transform world! #Science \n\n<img src=\"uploads/2024/image.png\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-05-16T16:33:02-03:00",
+				"url": "https://tiagolima.micro.blog/2024/05/16/most-iconic-equations.html"
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2024/05/12/currently-reading-o.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9788556510204\">O problema dos três corpos</a> by Cixin Liu 📚</p>\n",
+				"content_text": "Currently reading: [O problema dos três corpos](https://micro.blog/books/9788556510204) by Cixin Liu 📚\n",
+				"date_published": "2024-05-12T13:32:24-03:00",
+				"url": "https://tiagolima.micro.blog/2024/05/12/currently-reading-o.html"
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2024/05/12/morning-with-coffee.html",
+				
+				"content_html": "<p>Morning with coffee ☕️ #photo #coffee</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Morning with coffee ☕️ #photo #coffee\n\n<img src=\"uploads/2024/image.jpg\" width=\"464\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-05-12T11:42:12-03:00",
+				"url": "https://tiagolima.micro.blog/2024/05/12/morning-with-coffee.html"
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2024/05/12/the-essence-of.html",
+				
+				"content_html": "<p>The essence of the Internet is the blog and this is where it all began at 1994. That&rsquo;s why I&rsquo;m here! This year the oldest blog turn thirty.</p>\n",
+				"content_text": "The essence of the Internet is the blog and this is where it all began at 1994. That's why I'm here! This year the oldest blog turn thirty.\n",
+				"date_published": "2024-05-12T00:11:40-03:00",
+				"url": "https://tiagolima.micro.blog/2024/05/12/the-essence-of.html"
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2024/05/08/hello-this-is.html",
+				
+				"content_html": "<p>Hello! 👋🏽\nThis is my first post in Micro.blog. I hope this the first of many.</p>\n",
+				"content_text": "Hello! 👋🏽\r\nThis is my first post in Micro.blog. I hope this the first of many.\n",
+				"date_published": "2024-05-08T02:45:37-03:00",
+				"url": "https://tiagolima.micro.blog/2024/05/08/hello-this-is.html"
+			}
+	]
+}
