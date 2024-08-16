@@ -1,11 +1,28 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Tiago Lima",
+	"title": "Tiago's personal blog",
 	"icon": "https://micro.blog/tiagovercosa/avatar.jpg",
 	"home_page_url": "https://tiagolima.micro.blog/",
 	"feed_url": "https://tiagolima.micro.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://tiagolima.micro.blog/2024/08/16/after-an-exhaustive.html",
+				
+				"content_html": "<p>After an exhaustive week with many bugs solved and others to solve, finally the weekend. Java, in addition to being very verbose, is kind of boring to find agile solutions to HTTP request problems.</p>\n",
+				"content_text": "After an exhaustive week with many bugs solved and others to solve, finally the weekend. Java, in addition to being very verbose, is kind of boring to find agile solutions to HTTP request problems.\n",
+				"date_published": "2024-08-16T20:51:30-03:00",
+				"url": "https://tiagolima.micro.blog/2024/08/16/after-an-exhaustive.html"
+			},
+			{
+				"id": "http://tiagolima.micro.blog/2024/08/15/square-in-the.html",
+				
+				"content_html": "<p>📷 Square in the TV Tower in Brasília.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "📷 Square in the TV Tower in Brasília.\n\n<img src=\"uploads/2024/ecb1a5b1054042fd824e1d0d8ca0aa2e.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/23e45e588ec1481380d0e456964019b2.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/d7198016c28a4e2398024216b1c8b568.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-15T07:39:41-03:00",
+				"url": "https://tiagolima.micro.blog/2024/08/15/square-in-the.html",
+				"tags": ["Photos"]
+			},
 			{
 				"id": "http://tiagolima.micro.blog/2024/08/07/dia-de-corrida.html",
 				
@@ -54,7 +71,7 @@
 				"id": "http://tiagolima.micro.blog/2024/06/09/pause-from-the.html",
 				
 				"content_html": "<p>Pause from the hustle and bustle of everyday life. 🌴 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pause from the hustle and bustle of everyday life. 🌴 📷\n\n<img src=\"uploads/2024/a7fffd64f7.jpg\" width=\"600\" height=\"376\" alt=\"\">\n",
+				"content_text": "Pause from the hustle and bustle of everyday life. 🌴 📷\n\n<img src=\"https://cdn.uploads.micro.blog/163319/2024/a7fffd64f7.jpg\" width=\"600\" height=\"376\" alt=\"\">\n",
 				"date_published": "2024-06-09T11:38:03-03:00",
 				"url": "https://tiagolima.micro.blog/2024/06/09/pause-from-the.html",
 				"tags": ["Photos"]
@@ -63,7 +80,7 @@
 				"id": "http://tiagolima.micro.blog/2024/06/01/cold-and-cloudy.html",
 				
 				"content_html": "<p>Cold and cloudy night! 🌙 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cold and cloudy night! 🌙 📷\n\n<img src=\"uploads/2024/60c7b9d8c8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Cold and cloudy night! 🌙 📷\n\n<img src=\"https://cdn.uploads.micro.blog/163319/2024/60c7b9d8c8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-06-01T23:40:57-03:00",
 				"url": "https://tiagolima.micro.blog/2024/06/01/cold-and-cloudy.html",
 				"tags": ["Photos"]
@@ -80,7 +97,7 @@
 				"id": "http://tiagolima.micro.blog/2024/05/16/most-iconic-equations.html",
 				
 				"content_html": "<p>Most iconic equations at Physics that transform world! #Science</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Most iconic equations at Physics that transform world! #Science \n\n<img src=\"uploads/2024/image.png\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"content_text": "Most iconic equations at Physics that transform world! #Science \n\n<img src=\"https://cdn.uploads.micro.blog/163319/2024/image.png\" width=\"480\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-05-16T16:33:02-03:00",
 				"url": "https://tiagolima.micro.blog/2024/05/16/most-iconic-equations.html",
 				"tags": ["Photos","Science"]
@@ -98,7 +115,7 @@
 				"id": "http://tiagolima.micro.blog/2024/05/12/morning-with-coffee.html",
 				
 				"content_html": "<p>Morning with coffee ☕️ #photo #coffee</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Morning with coffee ☕️ #photo #coffee\n\n<img src=\"uploads/2024/image.jpg\" width=\"464\" height=\"600\" alt=\"\">\n",
+				"content_text": "Morning with coffee ☕️ #photo #coffee\n\n<img src=\"https://cdn.uploads.micro.blog/163319/2024/image.jpg\" width=\"464\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-05-12T11:42:12-03:00",
 				"url": "https://tiagolima.micro.blog/2024/05/12/morning-with-coffee.html",
 				"tags": ["Photos","Coffee"]
